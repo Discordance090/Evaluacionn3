@@ -1,0 +1,32 @@
+﻿body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    padding-bottom:60px;
+}
+
+main {
+    flex: 1;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    width: 100%;
+    margin-top:auto;
+
+}
+.body-content
+{
+    padding-left:0;
+    padding-right:0;
+    margin:auto;
+    
+}
